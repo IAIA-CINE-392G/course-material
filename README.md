@@ -1,5 +1,5 @@
 # IAIA-CINE-392G
-# Computer Programming for the Arts
+### Computer Programming for the Arts
 3 Credit Hours  
 Spring 2016  
 

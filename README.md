@@ -19,6 +19,9 @@ https://goo.gl/OJilOm
 **Schedule**  
 https://goo.gl/tLiinU
 
+**TextPad**
+https://goo.gl/jEgiZ3
+
 **Class**  
 [01/19/2016](class/2016-01-19.md)    
 [01/21/2016](class/2016-01-21.md)

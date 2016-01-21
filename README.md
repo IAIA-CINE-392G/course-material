@@ -19,7 +19,7 @@ https://goo.gl/OJilOm
 **Schedule**  
 https://goo.gl/tLiinU
 
-**TextPad**
+**Textpad**  
 https://goo.gl/jEgiZ3
 
 **Class**  

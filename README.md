@@ -7,7 +7,7 @@ IAIA Mac Lab 1 – Sci/Tech 123
 Tuesday & Thursday 2:30p - 5p  
 Spring 2016  
 
-**Adjunct Teacher**    
+**Instructor**    
 Charles Veasey   
 
 **Email**   

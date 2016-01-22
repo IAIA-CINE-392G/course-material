@@ -28,7 +28,7 @@ https://goo.gl/jEgiZ3
 [GitHub Desktop] (https://desktop.github.com/)  
 
 **Tutorials**  
-[GitHub Desktop Setup] https://goo.gl/E78LlZ  
+[GitHub Desktop Setup] (https://goo.gl/E78LlZ) 
 
 **Class**  
 [01/19/2016](class/2016-01-19.md)    

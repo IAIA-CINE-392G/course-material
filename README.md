@@ -22,6 +22,9 @@ https://goo.gl/tLiinU
 **Textpad**  
 https://goo.gl/jEgiZ3
 
+**IRC**  
+[Online Chat Room](https://kiwiirc.com/client/irc.kiwiirc.com/?nick=student|?#IAIA-CINE-392G)
+
 **Software**  
 [Processing] (https://processing.org/)  
 [GitHub] (https://github.com/)  

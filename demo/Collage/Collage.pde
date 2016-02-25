@@ -2,7 +2,7 @@
   Collage.pde
   Loads five images and creates a randomized collage.
   
-  Note: It make a little time to load the images when running the program, 
+  Note: It may take a little time to load the images when running the program, 
         as it downloads the images from the Internet.
         
         This program is relatively simple. It has a lot of code because it 

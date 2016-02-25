@@ -15,7 +15,7 @@
 
 /**********************************************************************************
   Store the image file path to a String variable.
-  I'm loading directly from the internet using a web link (URL).
+  I'm loading from the internet using a web link (URL).
   Alternatively, you can load directly from the data folder inside of your
   Processing project folder.
 /**********************************************************************************/

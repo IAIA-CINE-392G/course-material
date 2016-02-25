@@ -1,7 +1,7 @@
 #IAIA-CINE-392G
 **2/25/2016**
 
-##Drawing Assignment
+##Collage Assignment
 Write an application using Processing that creates an image collage. 
 You can either use your own images or images from the Internet. 
 

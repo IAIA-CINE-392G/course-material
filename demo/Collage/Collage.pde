@@ -116,9 +116,7 @@ void draw(){
     translate(x, y);
     scale(s);
     rotate(r);
-    
     image(img2, 0, 0);      // draw the image
-    
     popMatrix();
   }
   

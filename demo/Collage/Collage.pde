@@ -71,7 +71,7 @@ void mousePressed(){
 
 
 /*************************************************************************************** 
-  The draw function (Note: I've called the "noLoop()" function in "setup()"
+  The draw function. Note: I've called the "noLoop()" function in "setup()"
 ****************************************************************************************/
 void draw(){
   // set the background to black

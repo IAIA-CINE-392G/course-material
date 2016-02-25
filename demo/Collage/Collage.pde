@@ -63,7 +63,7 @@ void setup(){
 
 
 /*************************************************************************************** 
-  Redraw the window when someone clicks mouse on the window
+  Redraw the window when someone clicks the mouse on the window
 ****************************************************************************************/
 void mousePressed(){
   redraw();  

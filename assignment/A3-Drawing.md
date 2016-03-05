@@ -7,7 +7,7 @@ The program should provide a creative or unusual method of drawing.
 
 ##Deliverable
 1. A Processing source code file, named **Drawing.pde**
-2. Submit the file and folder on your **GitHub** repository. 
+2. Submit the file and folder to your **GitHub** repository. 
 
 ##Criteria
 1. Use both a **setup** and **draw** function.

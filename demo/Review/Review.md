@@ -14,7 +14,7 @@
 1. Create a for loop in the draw function  
 2. Set the counter from 0 to 19  
 3. Place the ellipse function in the for loop  
-4. Change the y position of the ellipse to the for loop's counter and mulitply it by 50  
+4. Change the y position of the ellipse to the for loop's counter and multiply it by 50  
 
 
 

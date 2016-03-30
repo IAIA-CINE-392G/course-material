@@ -1,7 +1,7 @@
 #IAIA-CINE-392G
 **3/29/2016**
 
-##Function Assignment
+##Polar Assignment
 Create a generative composition using polar coordinates. 
 
 ##Deliverable  

@@ -46,7 +46,7 @@ void drawCircles(float inc){
 void drawSpiral(float inc){
   noStroke();
   fill(139, 86, 84, 61);
-  radius = 12 * 12 + 26;
+  radius = 12 * inc + 26;
 
   for (float deg = -180; deg < 360*8; deg += 360.0/180.0){ 
     float angle = radians(deg);

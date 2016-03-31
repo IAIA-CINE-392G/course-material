@@ -13,5 +13,5 @@
 
 **Part 3: Animate**  
 1. Make a global float variable named ypos with a value of 0.0
-2. Increment the variable by 1.0 at the end of the the draw function  
+2. Increment the variable by 1.0 at the end of the draw function  
 3. Change the square's y position to the ypos variable  

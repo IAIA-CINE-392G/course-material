@@ -19,16 +19,14 @@ https://goo.gl/OJilOm
 **Schedule**  
 https://goo.gl/tLiinU
 
-**Textpad**  
-https://goo.gl/jEgiZ3
-
-**IRC**  
-[Online Chat Room](https://kiwiirc.com/client/irc.kiwiirc.com/?nick=student|?#IAIA-CINE-392G)
-
 **Software**  
 [Processing] (https://processing.org/)  
 [GitHub] (https://github.com/)  
 [GitHub Desktop] (https://desktop.github.com/)  
+
+**Cheat Sheets**  
+[Processing 1-page] (https://cdn.sparkfun.com/assets/6/3/f/e/3/Processing_Cheatsheet_Update.pdf)
+[Processing 9-pages] (http://assets.surattack.com/files/processing_cheat_sheet_english.pdf)
 
 **Tutorials**  
 [GitHub Desktop Setup] (https://goo.gl/E78LlZ)  

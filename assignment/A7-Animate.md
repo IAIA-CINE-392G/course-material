@@ -11,7 +11,7 @@ Extend the Polar assignment to include animation.
 ##Criteria
 1. A custom function that animates transformation.
 2. A custom function that animates style.
-4. One animation must use an exponential, sine, or cosine curve.
+3. One animation must use an exponential, sine, or cosine curve.
 
 ##Timeline
 1. Due **Tuesday, April 5, 2016**.

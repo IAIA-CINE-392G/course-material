@@ -25,8 +25,8 @@ https://goo.gl/tLiinU
 [GitHub Desktop] (https://desktop.github.com/)  
 
 **Cheat Sheets**  
-[Processing 1-page] (https://cdn.sparkfun.com/assets/6/3/f/e/3/Processing_Cheatsheet_Update.pdf)
-[Processing 9-pages] (http://assets.surattack.com/files/processing_cheat_sheet_english.pdf)
+[Processing 1-page] (https://cdn.sparkfun.com/assets/6/3/f/e/3/Processing_Cheatsheet_Update.pdf)  
+[Processing 9-pages] (http://assets.surattack.com/files/processing_cheat_sheet_english.pdf)  
 
 **Tutorials**  
 [GitHub Desktop Setup] (https://goo.gl/E78LlZ)  

@@ -1,7 +1,7 @@
 #IAIA-CINE-392G
 **3/31/2016**
 
-##Function Assignment
+##Animate Assignment
 Extend the Polar assignment to include animation.
 
 ##Deliverable  

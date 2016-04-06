@@ -7,11 +7,11 @@
 6. Set the square's dimensions to 20
 
 **Part 2: Repeat**  
-1. Add a for loop to draw the square 100 times 
-2. Use a variable named "i" as the loop's counter
-3. Set the square's x position to (i * 20)
+1. Add a for loop to draw the square 100 times  
+2. Use a variable named "i" as the loop's counter  
+3. Set the square's x position to (i * 20)  
 
 **Part 3: Animate**  
-1. Make a global float variable named ypos with a value of 0.0
+1. Make a global float variable named ypos with a value of 0.0  
 2. Increment the variable by 1.0 at the end of the draw function  
 3. Change the square's y position to the ypos variable  

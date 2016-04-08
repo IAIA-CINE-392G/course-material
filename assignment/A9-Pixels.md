@@ -2,7 +2,7 @@
 **4/7/2016**
 
 ##Pixels Assignment  
-Create an image filter using pixels processing. This can be an implementation of a known image filter or a custom filter.  
+Create an image filter using pixel processing. This can be an implementation of a known image filter or a custom filter.  
 
 ##Deliverable  
 1. A Processing source code file, named **Pixels.pde**  

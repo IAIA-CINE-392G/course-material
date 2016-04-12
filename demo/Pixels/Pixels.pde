@@ -1,25 +1,19 @@
 PImage img;
 PImage destination;  // Destination image
-
 String url = "http://www.santafehometownnews.com/sites/g/files/g901906/f/media_crop/32911/public/201512/01_mountain.jpg";
-
 int increment = 1;
 
 void setup() {
   size(768, 576);
   img = loadImage(url, "jpg");
-    // The destination image is created as a blank image the same size as the source.
-
-    destination = createImage(img.width, img.height, RGB);
-
+  // The destination image is created as a blank image the same size as the source.
+  destination = createImage(img.width, img.height, RGB);
 }
 
 
 void draw() {
   background(0);
-
-  img.loadPixels(); 
-
+  loadPixels(); 
 
   for (int y = 0; y < img.height; y++) {
     for (int x = 0; x < img.width; x++) {
@@ -35,14 +29,13 @@ void draw() {
       float bright = brightness(c);
       
       if (bright < int(random(0,175))){
-        c = color(0);
+          c = color(0);
       }
       
-      //r = random(100);
+      //r = random(100);      
       //c = color(r,g,b);
     
       // Set the image pixel to the new color
-      //img.pixels[loc] = c;
       destination.pixels[loc] = c;
     }
   }

@@ -1,5 +1,5 @@
 #IAIA-CINE-392G
-**4/15/2016**
+**4/14/2016**
 
 ##Export Assignment  
 Export a frame as either a PNG or PDF file. Use a previous assignment or example program. 

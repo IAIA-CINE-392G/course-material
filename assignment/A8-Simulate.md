@@ -6,7 +6,7 @@ Create a custom particle class by extending the Particle class found in Chapter 
 
 ##Deliverable  
 1. A Processing source code file, named **Simulate.pde**  
-2. Submit the file and folder to your **GitHub** repository.  
+2. Submit the files and folder to your **GitHub** repository.  
 
 ##Criteria
 1. A custom Particle class file.

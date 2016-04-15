@@ -7,7 +7,7 @@ You can either use your own images or images from the Internet.
 
 ##Deliverable
 1. A Processing source code file, named **Collage.pde**
-2. Submit the file and folder to your **GitHub** repository. 
+2. Submit the files and folder to your **GitHub** repository. 
 
 ##Criteria
 1. Load **five** image files.

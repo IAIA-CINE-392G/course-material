@@ -16,12 +16,12 @@ source: https://en.wikipedia.org/wiki/Poverty_in_the_United_States
 ##Deliverable  
 1. Three data files (csv, xml, and json).
 2. A Processing source code file, named **Data.pde**  
-3. Submit the file and folder to your **GitHub** repository.  
+3. Submit the files and folder to your **GitHub** repository.  
 
 ##Criteria
 1. Create three data files in the project's data folder.
 2. Read and parse one of the the data files in Processing. 
-4. Create an example data visualization program.
+3. Create an example data visualization program.
 
 ##Timeline
 1. Due **Thursday, April 14, 2016**.

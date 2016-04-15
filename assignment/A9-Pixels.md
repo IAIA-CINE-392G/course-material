@@ -6,7 +6,7 @@ Create an image filter using pixel processing. This can be an implementation of 
 
 ##Deliverable  
 1. A Processing source code file, named **Pixels.pde**  
-2. Submit the file and folder to your **GitHub** repository.  
+2. Submit the files and folder to your **GitHub** repository.  
 
 ##Criteria
 1. An image filter function.

@@ -1,7 +1,6 @@
 PImage img;
 PImage destination;  // Destination image
 String url = "http://www.santafehometownnews.com/sites/g/files/g901906/f/media_crop/32911/public/201512/01_mountain.jpg";
-int increment = 1;
 
 void setup() {
   size(768, 576);
@@ -9,7 +8,6 @@ void setup() {
   // The destination image is created as a blank image the same size as the source.
   destination = createImage(img.width, img.height, RGB);
 }
-
 
 void draw() {
   background(0);
@@ -31,7 +29,6 @@ void draw() {
       if (bright < int(random(0,175))){
           c = color(0);
       }
-      
       //r = random(100);      
       //c = color(r,g,b);
     

@@ -7,7 +7,7 @@ class MyParticle extends Particle {
     super(xpos, ypos, velx, vely, r);
     originX = ox;
     originY = oy;
-    randomStrokeWidth();
+    randomColor();
   }
   
   void regenerate() {
@@ -17,17 +17,16 @@ class MyParticle extends Particle {
       y = originY;
       vx = random(-1.0, 1.0);
       vy = random(-4.0, -2.0);
-      randomStrokeWidth();
+      randomColor();
     } 
   }
   
-  void randomStrokeWidth(){
-    stroke(255, 0, 0);
-    strokeWeight(int(random(100)));
+  void randomColor(){
+    myColor = color(random(256), random(256), random(256));
   }
   
   void display() {
-    fill(255);
+    fill(myColor);
     super.display();
   }
 }

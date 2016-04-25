@@ -16,12 +16,11 @@ void setup() {
 }
 
 void draw() {
-  // transparency trick
+  // trails
   fill(0, 36);
   rect(0, 0, width, height);
-  
-  // color of my particle
-  //fill(255, 60);
+
+  // loop through each particle
   for (MyParticle part : p) { 
     part.update();
     part.regenerate();

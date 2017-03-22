@@ -51,8 +51,8 @@ https://goo.gl/tLiinU
 [03/10/2016](class/2016-03-10.md) Structured Data cont.  
 [03/22/2016](class/2016-03-22.md) Trigonometry  
 [03/29/2016](class/2016-03-29.md) Random and Chance  
-[03/31/2016](class/2016-03-31.md) Animation and Time
-[04/05/2016](class/2016-04-05.md) Physic, Simulation, and AI
+[03/31/2016](class/2016-03-31.md) Animation and Time  
+[04/05/2016](class/2016-04-05.md) Physic, Simulation, and AI  
 [04/07/2016](class/2016-04-07.md) Pixel Processing  
-[04/12/2016](class/2016-04-12.md) Data Mapping
-[04/14/2016](class/2016-04-14.md)   
+[04/12/2016](class/2016-04-12.md) Data Mapping  
+[04/14/2016](class/2016-04-14.md) Exporting, Dome/VR
